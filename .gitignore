@@ -22,7 +22,8 @@
 .flutter-plugins-dependencies
 .pub/
 .pub-cache/
-build/
+build/*
+!build/web/
 coverage/
 
 # Android
